@@ -20,6 +20,9 @@ namespace Wizard__Ninja__Samurai
 
             hayden.death_blow(lennon);
             hayden.meditate();
+
+            int how_many_samurai = Samurai.count;
+            Console.WriteLine("There are {0} Samurai in the world.", how_many_samurai);
         }
     }
 }

@@ -4,9 +4,11 @@ namespace Wizard__Ninja__Samurai
 {
     public class Samurai : Human
     {
+
+        public static int count = 0;
         public Samurai(string name) : base(name, 3, 3, 3, 200)
         {
-
+            count++;
         }
 
         public void death_blow(object obj)
