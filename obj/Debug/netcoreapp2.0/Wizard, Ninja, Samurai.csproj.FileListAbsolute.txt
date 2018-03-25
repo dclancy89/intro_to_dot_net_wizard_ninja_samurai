@@ -1,0 +1,10 @@
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Wizard, Ninja, Samurai/bin/Debug/netcoreapp2.0/Wizard, Ninja, Samurai.deps.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Wizard, Ninja, Samurai/bin/Debug/netcoreapp2.0/Wizard, Ninja, Samurai.runtimeconfig.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Wizard, Ninja, Samurai/bin/Debug/netcoreapp2.0/Wizard, Ninja, Samurai.runtimeconfig.dev.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Wizard, Ninja, Samurai/bin/Debug/netcoreapp2.0/Wizard, Ninja, Samurai.dll
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Wizard, Ninja, Samurai/bin/Debug/netcoreapp2.0/Wizard, Ninja, Samurai.pdb
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Wizard, Ninja, Samurai/obj/Debug/netcoreapp2.0/Wizard, Ninja, Samurai.csproj.CoreCompileInputs.cache
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Wizard, Ninja, Samurai/obj/Debug/netcoreapp2.0/Wizard, Ninja, Samurai.AssemblyInfoInputs.cache
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Wizard, Ninja, Samurai/obj/Debug/netcoreapp2.0/Wizard, Ninja, Samurai.AssemblyInfo.cs
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Wizard, Ninja, Samurai/obj/Debug/netcoreapp2.0/Wizard, Ninja, Samurai.dll
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Wizard, Ninja, Samurai/obj/Debug/netcoreapp2.0/Wizard, Ninja, Samurai.pdb
